@@ -12,7 +12,7 @@ A professional Streamlit application for German traffic sign classification usin
 
 ## 🚀 Live Demo
 
-🌐 **[Access the Application](http://localhost:8501)**
+🌐 **[Access the Application](https://traffic-sign-recognition-system-by-hamza.streamlit.app/)**
 
 ## Features
 
@@ -146,6 +146,8 @@ The system can classify 43 different German traffic sign types including:
 
 ## 📊 Screenshots
 
+<img width="1478" height="1317" alt="download" src="https://github.com/user-attachments/assets/7fc17134-d3ad-44d4-9fbf-f6635063749a" />
+<img width="954" height="437" alt="msedge_IJdTB2Kw34" src="https://github.com/user-attachments/assets/72450d83-106a-4a92-ac10-82651da65374" />
 
 
 ## 🙏 Acknowledgments
